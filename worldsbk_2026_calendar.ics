@@ -6,673 +6,616 @@ METHOD:PUBLISH
 X-WR-CALNAME:WorldSBK 2026 Takvimi
 X-WR-TIMEZONE:Europe/Istanbul
 X-WR-CALDESC:WorldSBK 2026 sezonu - Tum yaris hafta sonlari
-X-APPLE-CALENDAR-COLOR:#D32F2F
-REFRESH-INTERVAL;VALUE=DURATION:PT12H
-X-PUBLISHED-TTL:PT12H
+X-APPLE-CALENDAR-COLOR:#1976D2
 BEGIN:VEVENT
 UID:worldsbk2026-1-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260220
-DTEND;VALUE=DATE:20260221
-SUMMARY:WorldSBK Australian Round - Antrenmanlar (Cuma)
+DTSTAMP:20260314T010000Z
+DTSTART:20260220T100000
+DTEND:20260220T180000
+SUMMARY:WorldSBK Avustralya - Antrenmanlar (Cuma)
 LOCATION:Phillip Island Grand Prix Circuit, Phillip Island, Avustralya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Phillip Island Grand Prix Circuit, Phillip Island, Av
- ustralya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Phillip Island Grand Pr
+ ix Circuit, Phillip Island, Avustralya\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:1
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Australian Round - Antrenmanlar (Cuma)
+DESCRIPTION:Hatirlatma: WorldSBK Avustralya - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-1-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260221
-DTEND;VALUE=DATE:20260222
-SUMMARY:WorldSBK Australian Round - Superpole / Race 1 (Cumartesi)
+DTSTAMP:20260314T010000Z
+DTSTART:20260221T100000
+DTEND:20260221T180000
+SUMMARY:WorldSBK Avustralya - Superpole (Cumartesi)
 LOCATION:Phillip Island Grand Prix Circuit, Phillip Island, Avustralya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Phillip Island Grand Prix Circuit, Phillip
-  Island, Avustralya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Phillip Island Grand Pr
+ ix Circuit, Phillip Island, Avustralya\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:2
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Australian Round - Superpole / Race 1 (C
- umartesi)
+DESCRIPTION:Hatirlatma: WorldSBK Avustralya - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-1-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260222
-DTEND;VALUE=DATE:20260223
-SUMMARY:WorldSBK Australian Round - Superpole Race / Race 2 (Pazar)
+DTSTAMP:20260314T010000Z
+DTSTART:20260222T140000
+DTEND:20260222T170000
+SUMMARY:WorldSBK Avustralya - YARIS (Pazar)
 LOCATION:Phillip Island Grand Prix Circuit, Phillip Island, Avustralya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Phillip Island Grand Prix Circuit, Philli
- p Island, Avustralya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Phillip Island Grand Pr
+ ix Circuit, Phillip Island, Avustralya\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:3
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Australian Round - Superpole Race / Race
-  2 (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Avustralya - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-2-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260327
-DTEND;VALUE=DATE:20260328
-SUMMARY:WorldSBK Pirelli Portuguese Round - Antrenmanlar (Cuma)
+DTSTAMP:20260314T010000Z
+DTSTART:20260327T100000
+DTEND:20260327T180000
+SUMMARY:WorldSBK Portekiz - Antrenmanlar (Cuma)
 LOCATION:Autodromo Internacional do Algarve, Portimao, Portekiz
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Autodromo Internacional do Algarve, Portimao, Porteki
- z
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Autodromo Internacional
+  do Algarve, Portimao, Portekiz\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:4
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Portuguese Round - Antrenmanlar 
- (Cuma)
+DESCRIPTION:Hatirlatma: WorldSBK Portekiz - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-2-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260328
-DTEND;VALUE=DATE:20260329
-SUMMARY:WorldSBK Pirelli Portuguese Round - Superpole / Race 1 (Cumartesi
- )
+DTSTAMP:20260314T010000Z
+DTSTART:20260328T100000
+DTEND:20260328T180000
+SUMMARY:WorldSBK Portekiz - Superpole (Cumartesi)
 LOCATION:Autodromo Internacional do Algarve, Portimao, Portekiz
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Autodromo Internacional do Algarve, Portim
- ao, Portekiz
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Autodromo Internacional
+  do Algarve, Portimao, Portekiz\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:5
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Portuguese Round - Superpole / R
- ace 1 (Cumartesi)
+DESCRIPTION:Hatirlatma: WorldSBK Portekiz - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-2-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260329
-DTEND;VALUE=DATE:20260330
-SUMMARY:WorldSBK Pirelli Portuguese Round - Superpole Race / Race 2 (Paza
- r)
+DTSTAMP:20260314T010000Z
+DTSTART:20260329T140000
+DTEND:20260329T170000
+SUMMARY:WorldSBK Portekiz - YARIS (Pazar)
 LOCATION:Autodromo Internacional do Algarve, Portimao, Portekiz
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Autodromo Internacional do Algarve, Porti
- mao, Portekiz
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Autodromo Internacional
+  do Algarve, Portimao, Portekiz\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:6
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Portuguese Round - Superpole Rac
- e / Race 2 (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Portekiz - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-3-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260417
-DTEND;VALUE=DATE:20260418
-SUMMARY:WorldSBK Pirelli Dutch Round - Antrenmanlar (Cuma)
+DTSTAMP:20260314T010000Z
+DTSTART:20260417T100000
+DTEND:20260417T180000
+SUMMARY:WorldSBK Hollanda - Antrenmanlar (Cuma)
 LOCATION:TT Circuit Assen, Assen, Hollanda
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: TT Circuit Assen, Assen, Hollanda
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: TT Circuit Assen, Assen
+ , Hollanda\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:7
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Dutch Round - Antrenmanlar (Cuma
- )
+DESCRIPTION:Hatirlatma: WorldSBK Hollanda - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-3-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260419
-SUMMARY:WorldSBK Pirelli Dutch Round - Superpole / Race 1 (Cumartesi)
+DTSTAMP:20260314T010000Z
+DTSTART:20260418T100000
+DTEND:20260418T180000
+SUMMARY:WorldSBK Hollanda - Superpole (Cumartesi)
 LOCATION:TT Circuit Assen, Assen, Hollanda
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: TT Circuit Assen, Assen, Hollanda
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: TT Circuit Assen, Assen
+ , Hollanda\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:8
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Dutch Round - Superpole / Race 1
-  (Cumartesi)
+DESCRIPTION:Hatirlatma: WorldSBK Hollanda - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-3-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260419
-DTEND;VALUE=DATE:20260420
-SUMMARY:WorldSBK Pirelli Dutch Round - Superpole Race / Race 2 (Pazar)
+DTSTAMP:20260314T010000Z
+DTSTART:20260419T140000
+DTEND:20260419T170000
+SUMMARY:WorldSBK Hollanda - YARIS (Pazar)
 LOCATION:TT Circuit Assen, Assen, Hollanda
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: TT Circuit Assen, Assen, Hollanda
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: TT Circuit Assen, Assen
+ , Hollanda\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:9
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Dutch Round - Superpole Race / R
- ace 2 (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Hollanda - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-4-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260501
-DTEND;VALUE=DATE:20260502
-SUMMARY:WorldSBK Motul Hungarian Round - Antrenmanlar (Cuma)
+DTSTAMP:20260314T010000Z
+DTSTART:20260501T100000
+DTEND:20260501T180000
+SUMMARY:WorldSBK Macaristan - Antrenmanlar (Cuma)
 LOCATION:Balaton Park Circuit, Balatonfokajar, Macaristan
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Balaton Park Circuit, Balatonfokajar, Macaristan
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Balaton Park Circuit, B
+ alatonfokajar, Macaristan\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:10
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Motul Hungarian Round - Antrenmanlar (Cu
- ma)
+DESCRIPTION:Hatirlatma: WorldSBK Macaristan - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-4-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260503
-SUMMARY:WorldSBK Motul Hungarian Round - Superpole / Race 1 (Cumartesi)
+DTSTAMP:20260314T010000Z
+DTSTART:20260502T100000
+DTEND:20260502T180000
+SUMMARY:WorldSBK Macaristan - Superpole (Cumartesi)
 LOCATION:Balaton Park Circuit, Balatonfokajar, Macaristan
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Balaton Park Circuit, Balatonfokajar, Maca
- ristan
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Balaton Park Circuit, B
+ alatonfokajar, Macaristan\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:11
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Motul Hungarian Round - Superpole / Race
-  1 (Cumartesi)
+DESCRIPTION:Hatirlatma: WorldSBK Macaristan - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-4-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260503
-DTEND;VALUE=DATE:20260504
-SUMMARY:WorldSBK Motul Hungarian Round - Superpole Race / Race 2 (Pazar)
+DTSTAMP:20260314T010000Z
+DTSTART:20260503T140000
+DTEND:20260503T170000
+SUMMARY:WorldSBK Macaristan - YARIS (Pazar)
 LOCATION:Balaton Park Circuit, Balatonfokajar, Macaristan
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Balaton Park Circuit, Balatonfokajar, Mac
- aristan
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Balaton Park Circuit, B
+ alatonfokajar, Macaristan\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:12
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Motul Hungarian Round - Superpole Race /
-  Race 2 (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Macaristan - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-5-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260515
-DTEND;VALUE=DATE:20260516
-SUMMARY:WorldSBK Czech Round - Antrenmanlar (Cuma)
+DTSTAMP:20260314T010000Z
+DTSTART:20260515T100000
+DTEND:20260515T180000
+SUMMARY:WorldSBK Cekya - Antrenmanlar (Cuma)
 LOCATION:Autodrom Most, Most, Cekya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Autodrom Most, Most, Cekya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Autodrom Most, Most, Ce
+ kya\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:13
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Czech Round - Antrenmanlar (Cuma)
+DESCRIPTION:Hatirlatma: WorldSBK Cekya - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-5-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260517
-SUMMARY:WorldSBK Czech Round - Superpole / Race 1 (Cumartesi)
+DTSTAMP:20260314T010000Z
+DTSTART:20260516T100000
+DTEND:20260516T180000
+SUMMARY:WorldSBK Cekya - Superpole (Cumartesi)
 LOCATION:Autodrom Most, Most, Cekya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Autodrom Most, Most, Cekya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Autodrom Most, Most, Ce
+ kya\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:14
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Czech Round - Superpole / Race 1 (Cumart
- esi)
+DESCRIPTION:Hatirlatma: WorldSBK Cekya - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-5-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260517
-DTEND;VALUE=DATE:20260518
-SUMMARY:WorldSBK Czech Round - Superpole Race / Race 2 (Pazar)
+DTSTAMP:20260314T010000Z
+DTSTART:20260517T140000
+DTEND:20260517T170000
+SUMMARY:WorldSBK Cekya - YARIS (Pazar)
 LOCATION:Autodrom Most, Most, Cekya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Autodrom Most, Most, Cekya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Autodrom Most, Most, Ce
+ kya\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:15
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Czech Round - Superpole Race / Race 2 (P
- azar)
+DESCRIPTION:Hatirlatma: WorldSBK Cekya - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-6-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:WorldSBK Aragon Round - Antrenmanlar (Cuma)
+DTSTAMP:20260314T010000Z
+DTSTART:20260529T100000
+DTEND:20260529T180000
+SUMMARY:WorldSBK Aragon - Antrenmanlar (Cuma)
 LOCATION:MotorLand Aragon, Alcaniz, Ispanya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: MotorLand Aragon, Alcaniz, Ispanya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: MotorLand Aragon, Alcan
+ iz, Ispanya\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:16
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Aragon Round - Antrenmanlar (Cuma)
+DESCRIPTION:Hatirlatma: WorldSBK Aragon - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-6-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260530
-DTEND;VALUE=DATE:20260531
-SUMMARY:WorldSBK Aragon Round - Superpole / Race 1 (Cumartesi)
+DTSTAMP:20260314T010000Z
+DTSTART:20260530T100000
+DTEND:20260530T180000
+SUMMARY:WorldSBK Aragon - Superpole (Cumartesi)
 LOCATION:MotorLand Aragon, Alcaniz, Ispanya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: MotorLand Aragon, Alcaniz, Ispanya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: MotorLand Aragon, Alcan
+ iz, Ispanya\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:17
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Aragon Round - Superpole / Race 1 (Cumar
- tesi)
+DESCRIPTION:Hatirlatma: WorldSBK Aragon - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-6-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:WorldSBK Aragon Round - Superpole Race / Race 2 (Pazar)
+DTSTAMP:20260314T010000Z
+DTSTART:20260531T140000
+DTEND:20260531T170000
+SUMMARY:WorldSBK Aragon - YARIS (Pazar)
 LOCATION:MotorLand Aragon, Alcaniz, Ispanya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: MotorLand Aragon, Alcaniz, Ispanya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: MotorLand Aragon, Alcan
+ iz, Ispanya\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:18
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Aragon Round - Superpole Race / Race 2 (
- Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Aragon - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-7-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-SUMMARY:WorldSBK Pirelli Emilia Romagna Round - Antrenmanlar (Cuma)
+DTSTAMP:20260314T010000Z
+DTSTART:20260612T100000
+DTEND:20260612T180000
+SUMMARY:WorldSBK Emilia-Romagna - Antrenmanlar (Cuma)
 LOCATION:Misano World Circuit Marco Simoncelli, Misano Adriatico, Italya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Misano World Circuit Marco Simoncelli, Misano Adriati
- co, Italya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Misano World Circuit Ma
+ rco Simoncelli, Misano Adriatico, Italya\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:19
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Emilia Romagna Round - Antrenman
- lar (Cuma)
+DESCRIPTION:Hatirlatma: WorldSBK Emilia-Romagna - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-7-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260613
-DTEND;VALUE=DATE:20260614
-SUMMARY:WorldSBK Pirelli Emilia Romagna Round - Superpole / Race 1 (Cumar
- tesi)
+DTSTAMP:20260314T010000Z
+DTSTART:20260613T100000
+DTEND:20260613T180000
+SUMMARY:WorldSBK Emilia-Romagna - Superpole (Cumartesi)
 LOCATION:Misano World Circuit Marco Simoncelli, Misano Adriatico, Italya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Misano World Circuit Marco Simoncelli, Mis
- ano Adriatico, Italya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Misano World Circuit Ma
+ rco Simoncelli, Misano Adriatico, Italya\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:20
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Emilia Romagna Round - Superpole
-  / Race 1 (Cumartesi)
+DESCRIPTION:Hatirlatma: WorldSBK Emilia-Romagna - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-7-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260614
-DTEND;VALUE=DATE:20260615
-SUMMARY:WorldSBK Pirelli Emilia Romagna Round - Superpole Race / Race 2 (
- Pazar)
+DTSTAMP:20260314T010000Z
+DTSTART:20260614T140000
+DTEND:20260614T170000
+SUMMARY:WorldSBK Emilia-Romagna - YARIS (Pazar)
 LOCATION:Misano World Circuit Marco Simoncelli, Misano Adriatico, Italya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Misano World Circuit Marco Simoncelli, Mi
- sano Adriatico, Italya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Misano World Circuit Ma
+ rco Simoncelli, Misano Adriatico, Italya\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:21
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Emilia Romagna Round - Superpole
-  Race / Race 2 (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Emilia-Romagna - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-8-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:WorldSBK Prosecco DOC UK Round - Antrenmanlar (Cuma)
-LOCATION:Donington Park, Castle Donington, Ingiltere
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Donington Park, Castle Donington, Ingiltere
+DTSTAMP:20260314T010000Z
+DTSTART:20260710T100000
+DTEND:20260710T180000
+SUMMARY:WorldSBK Ingiltere - Antrenmanlar (Cuma)
+LOCATION:Donington Park, Castle Donington, Birlesik Krallik
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Donington Park, Castle 
+ Donington, Birlesik Krallik\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:22
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Prosecco DOC UK Round - Antrenmanlar (Cu
- ma)
+DESCRIPTION:Hatirlatma: WorldSBK Ingiltere - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-8-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260711
-DTEND;VALUE=DATE:20260712
-SUMMARY:WorldSBK Prosecco DOC UK Round - Superpole / Race 1 (Cumartesi)
-LOCATION:Donington Park, Castle Donington, Ingiltere
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Donington Park, Castle Donington, Ingilter
- e
+DTSTAMP:20260314T010000Z
+DTSTART:20260711T100000
+DTEND:20260711T180000
+SUMMARY:WorldSBK Ingiltere - Superpole (Cumartesi)
+LOCATION:Donington Park, Castle Donington, Birlesik Krallik
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Donington Park, Castle 
+ Donington, Birlesik Krallik\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:23
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Prosecco DOC UK Round - Superpole / Race
-  1 (Cumartesi)
+DESCRIPTION:Hatirlatma: WorldSBK Ingiltere - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-8-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260712
-DTEND;VALUE=DATE:20260713
-SUMMARY:WorldSBK Prosecco DOC UK Round - Superpole Race / Race 2 (Pazar)
-LOCATION:Donington Park, Castle Donington, Ingiltere
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Donington Park, Castle Donington, Ingilte
- re
+DTSTAMP:20260314T010000Z
+DTSTART:20260712T140000
+DTEND:20260712T170000
+SUMMARY:WorldSBK Ingiltere - YARIS (Pazar)
+LOCATION:Donington Park, Castle Donington, Birlesik Krallik
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Donington Park, Castle 
+ Donington, Birlesik Krallik\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:24
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Prosecco DOC UK Round - Superpole Race /
-  Race 2 (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Ingiltere - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-9-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:WorldSBK Acerbis French Round - Antrenmanlar (Cuma)
+DTSTAMP:20260314T010000Z
+DTSTART:20260904T100000
+DTEND:20260904T180000
+SUMMARY:WorldSBK Fransa - Antrenmanlar (Cuma)
 LOCATION:Circuit de Nevers Magny-Cours, Magny-Cours, Fransa
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Circuit de Nevers Magny-Cours, Magny-Cours, Fransa
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Circuit de Nevers Magny
+ -Cours, Magny-Cours, Fransa\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:25
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Acerbis French Round - Antrenmanlar (Cum
- a)
+DESCRIPTION:Hatirlatma: WorldSBK Fransa - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-9-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:WorldSBK Acerbis French Round - Superpole / Race 1 (Cumartesi)
+DTSTAMP:20260314T010000Z
+DTSTART:20260905T100000
+DTEND:20260905T180000
+SUMMARY:WorldSBK Fransa - Superpole (Cumartesi)
 LOCATION:Circuit de Nevers Magny-Cours, Magny-Cours, Fransa
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Circuit de Nevers Magny-Cours, Magny-Cours
- , Fransa
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Circuit de Nevers Magny
+ -Cours, Magny-Cours, Fransa\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:26
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Acerbis French Round - Superpole / Race 
- 1 (Cumartesi)
+DESCRIPTION:Hatirlatma: WorldSBK Fransa - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-9-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:WorldSBK Acerbis French Round - Superpole Race / Race 2 (Pazar)
+DTSTAMP:20260314T010000Z
+DTSTART:20260906T140000
+DTEND:20260906T170000
+SUMMARY:WorldSBK Fransa - YARIS (Pazar)
 LOCATION:Circuit de Nevers Magny-Cours, Magny-Cours, Fransa
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Circuit de Nevers Magny-Cours, Magny-Cour
- s, Fransa
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Circuit de Nevers Magny
+ -Cours, Magny-Cours, Fransa\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:27
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Acerbis French Round - Superpole Race / 
- Race 2 (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Fransa - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-10-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:WorldSBK Italian Round - Antrenmanlar (Cuma)
+DTSTAMP:20260314T010000Z
+DTSTART:20260925T100000
+DTEND:20260925T180000
+SUMMARY:WorldSBK Italya - Antrenmanlar (Cuma)
 LOCATION:Cremona Circuit, San Martino del Lago, Italya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Cremona Circuit, San Martino del Lago, Italya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Cremona Circuit, San Ma
+ rtino del Lago, Italya\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:28
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Italian Round - Antrenmanlar (Cuma)
+DESCRIPTION:Hatirlatma: WorldSBK Italya - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-10-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:WorldSBK Italian Round - Superpole / Race 1 (Cumartesi)
+DTSTAMP:20260314T010000Z
+DTSTART:20260926T100000
+DTEND:20260926T180000
+SUMMARY:WorldSBK Italya - Superpole (Cumartesi)
 LOCATION:Cremona Circuit, San Martino del Lago, Italya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Cremona Circuit, San Martino del Lago, Ita
- lya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Cremona Circuit, San Ma
+ rtino del Lago, Italya\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:29
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Italian Round - Superpole / Race 1 (Cuma
- rtesi)
+DESCRIPTION:Hatirlatma: WorldSBK Italya - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-10-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:WorldSBK Italian Round - Superpole Race / Race 2 (Pazar)
+DTSTAMP:20260314T010000Z
+DTSTART:20260927T140000
+DTEND:20260927T170000
+SUMMARY:WorldSBK Italya - YARIS (Pazar)
 LOCATION:Cremona Circuit, San Martino del Lago, Italya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Cremona Circuit, San Martino del Lago, It
- alya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Cremona Circuit, San Ma
+ rtino del Lago, Italya\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:30
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Italian Round - Superpole Race / Race 2 
- (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Italya - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-11-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:WorldSBK Tissot Estoril Round - Antrenmanlar (Cuma)
-LOCATION:Circuito Estoril, Estoril, Portekiz
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Circuito Estoril, Estoril, Portekiz
+DTSTAMP:20260314T010000Z
+DTSTART:20261009T100000
+DTEND:20261009T180000
+SUMMARY:WorldSBK Estoril - Antrenmanlar (Cuma)
+LOCATION:Circuito do Estoril, Cascais, Portekiz
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Circuito do Estoril, Ca
+ scais, Portekiz\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:31
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Tissot Estoril Round - Antrenmanlar (Cum
- a)
+DESCRIPTION:Hatirlatma: WorldSBK Estoril - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-11-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20261010
-DTEND;VALUE=DATE:20261011
-SUMMARY:WorldSBK Tissot Estoril Round - Superpole / Race 1 (Cumartesi)
-LOCATION:Circuito Estoril, Estoril, Portekiz
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Circuito Estoril, Estoril, Portekiz
+DTSTAMP:20260314T010000Z
+DTSTART:20261010T100000
+DTEND:20261010T180000
+SUMMARY:WorldSBK Estoril - Superpole (Cumartesi)
+LOCATION:Circuito do Estoril, Cascais, Portekiz
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Circuito do Estoril, Ca
+ scais, Portekiz\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:32
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Tissot Estoril Round - Superpole / Race 
- 1 (Cumartesi)
+DESCRIPTION:Hatirlatma: WorldSBK Estoril - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-11-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:WorldSBK Tissot Estoril Round - Superpole Race / Race 2 (Pazar)
-LOCATION:Circuito Estoril, Estoril, Portekiz
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Circuito Estoril, Estoril, Portekiz
+DTSTAMP:20260314T010000Z
+DTSTART:20261011T140000
+DTEND:20261011T170000
+SUMMARY:WorldSBK Estoril - YARIS (Pazar)
+LOCATION:Circuito do Estoril, Cascais, Portekiz
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Circuito do Estoril, Ca
+ scais, Portekiz\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:33
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Tissot Estoril Round - Superpole Race / 
- Race 2 (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Estoril - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-12-1@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:WorldSBK Pirelli Spanish Round - Antrenmanlar (Cuma)
-LOCATION:Circuito de Jerez-Angel Nieto, Jerez, Ispanya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Antrenm
- anlar (Cuma)\nYer: Circuito de Jerez-Angel Nieto, Jerez, Ispanya
+DTSTAMP:20260314T010000Z
+DTSTART:20261016T100000
+DTEND:20261016T180000
+SUMMARY:WorldSBK Ispanya - Antrenmanlar (Cuma)
+LOCATION:Circuito de Jerez - Angel Nieto, Jerez de la Frontera, Ispanya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Circuito de Jerez - Ang
+ el Nieto, Jerez de la Frontera, Ispanya\nGun: Antrenmanlar (Cuma)
 STATUS:CONFIRMED
-SEQUENCE:34
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Spanish Round - Antrenmanlar (Cu
- ma)
+DESCRIPTION:Hatirlatma: WorldSBK Ispanya - Antrenmanlar (Cuma)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-12-2@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20261017
-DTEND;VALUE=DATE:20261018
-SUMMARY:WorldSBK Pirelli Spanish Round - Superpole / Race 1 (Cumartesi)
-LOCATION:Circuito de Jerez-Angel Nieto, Jerez, Ispanya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le / Race 1 (Cumartesi)\nYer: Circuito de Jerez-Angel Nieto, Jerez, Ispa
- nya
+DTSTAMP:20260314T010000Z
+DTSTART:20261017T100000
+DTEND:20261017T180000
+SUMMARY:WorldSBK Ispanya - Superpole (Cumartesi)
+LOCATION:Circuito de Jerez - Angel Nieto, Jerez de la Frontera, Ispanya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Circuito de Jerez - Ang
+ el Nieto, Jerez de la Frontera, Ispanya\nGun: Superpole (Cumartesi)
 STATUS:CONFIRMED
-SEQUENCE:35
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Spanish Round - Superpole / Race
-  1 (Cumartesi)
+DESCRIPTION:Hatirlatma: WorldSBK Ispanya - Superpole (Cumartesi)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:worldsbk2026-12-3@calendar
-DTSTAMP:20260314T000000Z
-DTSTART;VALUE=DATE:20261018
-DTEND;VALUE=DATE:20261019
-SUMMARY:WorldSBK Pirelli Spanish Round - Superpole Race / Race 2 (Pazar)
-LOCATION:Circuito de Jerez-Angel Nieto, Jerez, Ispanya
-DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nSeri: WorldSBK\nGun: Superpo
- le Race / Race 2 (Pazar)\nYer: Circuito de Jerez-Angel Nieto, Jerez, Isp
- anya
+DTSTAMP:20260314T010000Z
+DTSTART:20261018T140000
+DTEND:20261018T170000
+SUMMARY:WorldSBK Ispanya - YARIS (Pazar)
+LOCATION:Circuito de Jerez - Angel Nieto, Jerez de la Frontera, Ispanya
+DESCRIPTION:Etkinlik Tipi: Yaris Hafta Sonu\nYer: Circuito de Jerez - Ang
+ el Nieto, Jerez de la Frontera, Ispanya\nGun: Yaris (Pazar)
 STATUS:CONFIRMED
-SEQUENCE:36
+SEQUENCE:0
 BEGIN:VALARM
 TRIGGER:-P1D
-DESCRIPTION:Hatirlatma: WorldSBK Pirelli Spanish Round - Superpole Race /
-  Race 2 (Pazar)
+DESCRIPTION:Hatirlatma: WorldSBK Ispanya - YARIS (Pazar)
 ACTION:DISPLAY
 END:VALARM
 END:VEVENT
