@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+PRODID:-//OpenAI//WorldSBK 2026 Calendar//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WorldSBK 2026
+X-WR-TIMEZONE:Europe/Istanbul
+BEGIN:VEVENT
+UID:worldsbk-2026-round1-phillipisland@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 1 - Australian Round
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260223
+LOCATION:Phillip Island Grand Prix Circuit, Phillip Island, Australia
+DESCRIPTION:WorldSBK 2026 Round 1 - Australian Round at Phillip Island Grand Prix Circuit.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round2-portimao@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 2 - Pirelli Portuguese Round
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260330
+LOCATION:Autodromo Internacional do Algarve, Portimao, Portugal
+DESCRIPTION:WorldSBK 2026 Round 2 - Pirelli Portuguese Round at Autodromo Internacional do Algarve.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round3-assen@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 3 - Pirelli Dutch Round
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260420
+LOCATION:TT Circuit Assen, Assen, Netherlands
+DESCRIPTION:WorldSBK 2026 Round 3 - Pirelli Dutch Round at TT Circuit Assen.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round4-balaton@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 4 - Motul Hungarian Round
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260504
+LOCATION:Balaton Park Circuit, Balatonfokajar, Hungary
+DESCRIPTION:WorldSBK 2026 Round 4 - Motul Hungarian Round at Balaton Park Circuit.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round5-most@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 5 - Czech Round
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260518
+LOCATION:Autodrom Most, Most, Czech Republic
+DESCRIPTION:WorldSBK 2026 Round 5 - Czech Round at Autodrom Most.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round6-aragon@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 6 - Aragon Round
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+LOCATION:MotorLand Aragon, Alcaniz, Spain
+DESCRIPTION:WorldSBK 2026 Round 6 - Aragon Round at MotorLand Aragon.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round7-misano@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 7 - Pirelli Emilia Romagna Round
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260615
+LOCATION:Misano World Circuit Marco Simoncelli, Misano Adriatico, Italy
+DESCRIPTION:WorldSBK 2026 Round 7 - Pirelli Emilia Romagna Round at Misano World Circuit Marco Simoncelli.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round8-donington@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 8 - Prosecco DOC UK Round
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260713
+LOCATION:Donington Park, Castle Donington, United Kingdom
+DESCRIPTION:WorldSBK 2026 Round 8 - Prosecco DOC UK Round at Donington Park.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round9-magnycours@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 9 - Acerbis French Round
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260907
+LOCATION:Circuit de Nevers Magny-Cours, Magny-Cours, France
+DESCRIPTION:WorldSBK 2026 Round 9 - Acerbis French Round at Circuit de Nevers Magny-Cours.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round10-cremona@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 10 - Italian Round
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260928
+LOCATION:Cremona Circuit, San Martino del Lago, Italy
+DESCRIPTION:WorldSBK 2026 Round 10 - Italian Round at Cremona Circuit.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round11-estoril@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 11 - Tissot Estoril Round
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+LOCATION:Circuito do Estoril, Estoril, Portugal
+DESCRIPTION:WorldSBK 2026 Round 11 - Tissot Estoril Round at Circuito do Estoril.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:worldsbk-2026-round12-jerez@openai
+DTSTAMP:20260314T000000Z
+SUMMARY:WorldSBK Round 12 - Pirelli Spanish Round
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+LOCATION:Circuito de Jerez-Angel Nieto, Jerez de la Frontera, Spain
+DESCRIPTION:WorldSBK 2026 Round 12 - Pirelli Spanish Round at Circuito de Jerez-Angel Nieto. Subject to contract per FIM announcement.
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
